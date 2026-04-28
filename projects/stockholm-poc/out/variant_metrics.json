@@ -1,0 +1,35 @@
+[
+  {
+    "Variant": "V1",
+    "Type": "courtyard perimeter block",
+    "Plot area m\u00b2": 1318.491398687681,
+    "Footprint area m\u00b2": 439.4971328807245,
+    "Floors": 6,
+    "Max height m": 18,
+    "Target FAR": 2.0,
+    "GFA m\u00b2": 2636.982797284347,
+    "Realised FAR": 1.99999999993097
+  },
+  {
+    "Variant": "V2",
+    "Type": "L-shape with stepped roof",
+    "Plot area m\u00b2": 1318.491398687681,
+    "Footprint area m\u00b2": 449.23138304334356,
+    "Floors": 10,
+    "Max height m": 30,
+    "Target FAR": 3.5,
+    "GFA m\u00b2": 4492.313830433435,
+    "Realised FAR": 3.4071620299569023
+  },
+  {
+    "Variant": "V3",
+    "Type": "tower plus podium",
+    "Plot area m\u00b2": 1318.491398687681,
+    "Footprint area m\u00b2": 408.1855673535846,
+    "Floors": 20,
+    "Max height m": 60,
+    "Target FAR": 5.0,
+    "GFA m\u00b2": 4035.692456261927,
+    "Realised FAR": 3.060840943125398
+  }
+]
